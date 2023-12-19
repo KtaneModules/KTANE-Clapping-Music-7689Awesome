@@ -11,13 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: template
-  title: Template
-  author: 
-  description: "[INSERT FLAVOR TEXT HERE]\n\n[INSERT SOLVING DESCRIPTION HERE]\n\n[INSERT
-    POTENTIAL CREDITS HERE]\n\nThe manual can be found in the manuals folder of the
-    game or at ktane.timwi.de.\n\r\nContact Fartlicker777#9169 on Discord if there
-    are any bugs."
-  version: 
+  id: clappingMusic
+  title: Clapping Music
+  author: Me
+  description: "\n\U0001F44F\U0001F44F\U0001F44FX \U0001F44F\U0001F44FX\U0001F44F
+    X\U0001F44F\U0001F44FX - Steve Reich, 1972\n\nPress a sequence of claps and rests
+    based on edgework.\n\nThis module was inspired by Steve Reich's Clapping Music
+    (1972) and made with guidance from Deaf's Basic Modding Tutorial.\n\nModule id:
+    clappingMusic\n\nManual by me. Also, this is my first mod so don't expect too
+    much.\n\nThe manual can be found in the manuals folder of the game or at ktane.timwi.de."
+  version: 1.0
   outputFolder: build
-  previewImage: {fileID: 0}
+  previewImage: {fileID: 2800000, guid: 311a3c30f7b186e40bcfe09a085cdb43, type: 3}
